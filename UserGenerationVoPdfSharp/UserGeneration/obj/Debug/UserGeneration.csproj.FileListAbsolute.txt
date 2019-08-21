@@ -1,0 +1,12 @@
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\UserGeneration.exe.config
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\UserGeneration.exe
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\UserGeneration.pdb
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\obj\Debug\UserGeneration.exe
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\obj\Debug\UserGeneration.pdb
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\obj\Debug\UserGeneration.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\PdfSharp.Charting.dll
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\PdfSharp.dll
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\PdfSharp.xml
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\PdfSharp.Charting.xml
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\de\PdfSharp.resources.dll
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\de\PdfSharp.Charting.resources.dll

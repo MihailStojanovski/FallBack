@@ -1,0 +1,11 @@
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\UserGeneration.exe.config
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\UserGeneration.exe
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\UserGeneration.pdb
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\obj\Debug\UserGeneration.exe
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\obj\Debug\UserGeneration.pdb
+c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\obj\Debug\UserGeneration.csprojResolveAssemblyReference.cache
+C:\Users\mihail\Documents\Visual Studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\FastReport.dll
+C:\Users\mihail\Documents\Visual Studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\FastReport.Bars.dll
+C:\Users\mihail\Documents\Visual Studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\FastReport.Editor.dll
+C:\Users\mihail\Documents\Visual Studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\ADODB.dll
+C:\Users\mihail\Documents\Visual Studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\FastReport.xml
