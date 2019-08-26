@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using System.IO;
+using System.Data;
 
 namespace UserGeneration
 {
@@ -111,8 +112,8 @@ namespace UserGeneration
             }
 
                 usersReader.Close();
-                
 
-            }
+
+        }
         }
     }

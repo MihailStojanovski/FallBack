@@ -10,3 +10,15 @@ c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGenerat
 c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\PdfSharp.Charting.xml
 c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\de\PdfSharp.resources.dll
 c:\users\mihail\documents\visual studio 2015\Projects\UserGeneration\UserGeneration\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\UserGeneration.exe.config
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\obj\Debug\UserGeneration.exe
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\obj\Debug\UserGeneration.pdb
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\UserGeneration.exe
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\UserGeneration.pdb
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\PdfSharp.Charting.dll
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\PdfSharp.dll
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\PdfSharp.xml
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\PdfSharp.Charting.xml
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\mihail\Desktop\Fallback\UserGenerationVoPdfSharp\UserGeneration\obj\Debug\UserGeneration.csprojResolveAssemblyReference.cache
